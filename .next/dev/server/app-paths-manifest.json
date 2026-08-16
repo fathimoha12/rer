@@ -1,0 +1,11 @@
+{
+  "/api/course/route": "app/api/course/route.js",
+  "/page": "app/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/login/page": "app/login/page.js",
+  "/posters/page": "app/posters/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/open-positions/page": "app/open-positions/page.js",
+  "/system/page": "app/system/page.js",
+  "/lessons/page": "app/lessons/page.js"
+}
